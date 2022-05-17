@@ -22,7 +22,7 @@ export default function Navbar() {
                 color: "white",
                 marginRight: "10px",
               }}
-              href={Logo}
+              href="Logo"
             >
               Logo
             </a>
