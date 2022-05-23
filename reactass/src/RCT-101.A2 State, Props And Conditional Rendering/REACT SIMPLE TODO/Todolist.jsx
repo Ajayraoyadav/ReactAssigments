@@ -17,6 +17,7 @@ export const TodoList = () => {
     };
     setTodo([taskObj, ...Todo]);
   };
+
   const handleDelete = (id) => {
     let newTodo = Todo.filter((item) => item.id != id);
     setTodo(newTodo);

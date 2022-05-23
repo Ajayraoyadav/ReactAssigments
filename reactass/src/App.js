@@ -15,7 +15,9 @@ function App() {
       {/* <Counter/> */}
       {/* <TodoList/> */}
       {/* <CartDetails/> */}
-      <DataDetails/>
+      {/* <DataDetails/> */}
+      
+
     </div>
   );
 }
